@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestNG_Project">
+  <test name="driverCalling">
+    <classes>
+      <class name="com.driver.all.wedriverCall"/>
+    </classes>
+  </test>
+</suite>
+
